@@ -19,5 +19,6 @@ public class C02_Arrays {
         // array bir obje oldugundan /non-primitive data oldugundan java referansini yazdirir
         //Array'i array olarak yazdirmak isterseniz Array class'indan yardim almalisiniz
         System.out.println(Arrays.toString(arr));//[Ali, Ulus, Nesrin]
+
     }
 }

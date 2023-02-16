@@ -1,6 +1,6 @@
 package ders34_overriding_pollymorphism;
 
-public class AParent {
+public class AParent  {
     public void method1(){
         System.out.println("parent class method1");
     }
